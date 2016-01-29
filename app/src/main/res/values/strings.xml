@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather List</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_msg">Something went wrong :(</string>
+</resources>
